@@ -1,1 +1,1 @@
-[![Umer's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Umer-Farooq-Dev&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Umer's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Umer-Farooq-Dev&show_icons=true&theme=midnight-purple&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
