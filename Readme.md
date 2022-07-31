@@ -1,7 +1,9 @@
 [![Umer's GitHub Banner](./assets/header.png)
 
 Hey there :smile:
-I am a full stack developer.I have experience in creating full stack web applications,Image processing, Machine Learning,RESTFUL API'S 
+I am experienced full-stack engineer specializing in developing high-quality web applications.
+
+I can build everything from the front-end to the back-end and everything in between.
 
 ## &#x1f4c8; GitHub Stats
 
