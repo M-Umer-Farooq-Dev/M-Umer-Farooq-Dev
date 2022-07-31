@@ -1,10 +1,10 @@
 [![Umer's GitHub Banner](./assets/header.png)
 
 Hey there :smile: 
-<br>
-I am experienced full-stack engineer specializing in developing high-quality web applications.
 
-I can build everything from the front-end to the back-end and everything in between.
+<br>
+
+I am experienced full-stack engineer specializing in developing high-quality web applications.I can build everything from the front-end to the back-end and everything in between.
 
 ## &#x1f4c8; GitHub Stats
 
