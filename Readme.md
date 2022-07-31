@@ -1,4 +1,4 @@
-[![Umer's GitHub Banner](./assets/header.png)]
+[![Umer's GitHub Banner](./assets/header.png)
 
 Hey there :smile:
 I am a full stack developer.I have experience in creating full stack web applications,Image processing, Machine Learning,RESTFUL API'S 
