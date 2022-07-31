@@ -1,3 +1,5 @@
+[![Umer's GitHub Banner](./assets/header.png)]
+
 ## &#x1f4c8; GitHub Stats
 
 <br>
