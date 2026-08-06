@@ -193,7 +193,7 @@ I work with founders and operating teams that need someone who can understand th
 <br/>
 
 <a href="https://umerfarooq.me"><img src="https://img.shields.io/badge/🌐_Website-umerfarooq.me-2D2D2D?style=for-the-badge" alt="Website" /></a>
-<a href="https://zenovae.ai"><img src="img.shields.io/badge/🏢_Agency-zenovae.ai-c8956d?style=for-the-badge" alt="Zenovae" /></a>
+<a href="https://zenovae.ai"><img src="https://img.shields.io/badge/🏢_Agency-zenovae.ai-c8956d?style=for-the-badge" alt="Zenovae" /></a>
 <a href="https://www.linkedin.com/in/dev-umer-farooq/"><img src="https://img.shields.io/badge/💼_LinkedIn-Dev--Umer--Farooq-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
 <a href="mailto:umerfarooqqq2010@gmail.com"><img src="https://img.shields.io/badge/📧_Email-Get_in_touch-c8956d?style=for-the-badge" alt="Email" /></a>
 
